@@ -1,0 +1,19 @@
+.search_bar {
+  margin: 20px;
+  text-align: center;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item:hover {
+  background-color: #eee;
+}
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.video-detail .description {
+  font-size: 14px;
+}
