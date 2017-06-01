@@ -15,7 +15,7 @@ class App extends Component {
       videos:[],
       selectedVideo:{},
     };
-  }
+  } 
 //==============================================================================
   onSubmitSearch(term){
 
